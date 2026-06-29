@@ -33,6 +33,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-dahal-11245225a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://ishandhl.github.io/my-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishandhl)
 
 </div>
 
@@ -42,10 +43,6 @@
 <div align="center">
 
 ### 🛠️ Languages & Tools
-
-</div>
-
-<div align="center">
 
 **Languages**
 
@@ -77,47 +74,49 @@
 
 ### 📊 GitHub Stats
 
-<!-- Stats cards use #theme=... to auto-adapt to dark/light -->
+<!-- Using cache_seconds=1800 and explicit card_width helps reliability -->
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"
+    srcset="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800&count_private=true"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&theme=default&hide_border=true&title_color=4f46e5&icon_color=4f46e5"
+    srcset="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&hide_border=true&title_color=4f46e5&icon_color=4f46e5&cache_seconds=1800&count_private=true"
   />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&theme=default&hide_border=true&title_color=4f46e5&icon_color=4f46e5" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&hide_border=true&title_color=4f46e5&icon_color=4f46e5&count_private=true" />
 </picture>
 &nbsp;
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&cache_seconds=1800&langs_count=8"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&theme=default&hide_border=true&title_color=4f46e5"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&hide_border=true&title_color=4f46e5&cache_seconds=1800&langs_count=8"
   />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&theme=default&hide_border=true&title_color=4f46e5" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&hide_border=true&title_color=4f46e5&langs_count=8" />
 </picture>
 
 </div>
 
-<!-- Streak Stats -->
+<br/>
+
+<!-- Streak Stats — demolab is generally more reliable than other streak services -->
 <div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=ishandhl&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"
+    srcset="https://streak-stats.demolab.com?user=ishandhl&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&dates=c9d1d9"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=ishandhl&theme=default&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5"
+    srcset="https://streak-stats.demolab.com?user=ishandhl&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5"
   />
-  <img src="https://streak-stats.demolab.com?user=ishandhl&theme=default&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ishandhl&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5" alt="GitHub Streak" />
 </picture>
 
 </div>
@@ -130,13 +129,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ishandhl&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ishandhl&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true&area=true&area_color=6366f1"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ishandhl&bg_color=ffffff&color=4f46e5&line=4f46e5&point=4f46e5&hide_border=true"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ishandhl&bg_color=f8f9fa&color=4f46e5&line=4f46e5&point=4f46e5&hide_border=true&area=true&area_color=c7d2fe"
   />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishandhl&bg_color=ffffff&color=4f46e5&line=4f46e5&point=4f46e5&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishandhl&bg_color=f8f9fa&color=4f46e5&line=4f46e5&point=4f46e5&hide_border=true&area=true&area_color=c7d2fe" alt="Activity Graph" />
 </picture>
 
 </div>
