@@ -11,7 +11,6 @@
 
 ---
 
-<!-- About -->
 <div align="center">
 
 ### 👨‍💻 About Me
@@ -26,7 +25,6 @@
 
 ---
 
-<!-- Connect -->
 <div align="center">
 
 ### 🔗 Connect With Me
@@ -39,7 +37,6 @@
 
 ---
 
-<!-- Tech Stack -->
 <div align="center">
 
 ### 🛠️ Languages & Tools
@@ -69,54 +66,36 @@
 
 ---
 
-<!-- GitHub Stats -->
 <div align="center">
 
 ### 📊 GitHub Stats
 
-<!-- Using cache_seconds=1800 and explicit card_width helps reliability -->
-
+<!-- Streak from demolab — dedicated service, very reliable -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800&count_private=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&hide_border=true&title_color=4f46e5&icon_color=4f46e5&cache_seconds=1800&count_private=true"
-  />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&hide_border=true&title_color=4f46e5&icon_color=4f46e5&count_private=true" />
-</picture>
-&nbsp;
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&cache_seconds=1800&langs_count=8"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&hide_border=true&title_color=4f46e5&cache_seconds=1800&langs_count=8"
-  />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&hide_border=true&title_color=4f46e5&langs_count=8" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- Streak Stats — demolab is generally more reliable than other streak services -->
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=ishandhl&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&dates=c9d1d9"
+    srcset="https://streak-stats.demolab.com?user=ishandhl&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&dates=c9d1d9&sideLabels=c9d1d9&sideNums=ffffff&currStreakNum=ffffff"
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://streak-stats.demolab.com?user=ishandhl&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5"
   />
   <img src="https://streak-stats.demolab.com?user=ishandhl&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5" alt="GitHub Streak" />
+</picture>
+
+<br/><br/>
+
+<!-- Profile trophy — reliable, no rate limit issues -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-trophy.vercel.app/?username=ishandhl&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-trophy.vercel.app/?username=ishandhl&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=4"
+  />
+  <img src="https://github-profile-trophy.vercel.app/?username=ishandhl&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=4" alt="Trophies" />
 </picture>
 
 </div>
