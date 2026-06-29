@@ -35,27 +35,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-dahal-11245225a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://ishandhl.github.io/my-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishandhl)
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ishandhl
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+<!-- Snake animation — generated via GitHub Actions, see note below -->
+<!-- Uncomment after setting up the action:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishandhl/ishandhl/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishandhl/ishandhl/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ishandhl/ishandhl/output/github-snake.svg">
+</picture>
+-->
 
 </div>
 
