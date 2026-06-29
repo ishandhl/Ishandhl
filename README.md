@@ -1,11 +1,14 @@
-<!-- Header -->
+<!-- Header with vortex animation -->
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Ishan%20Dahal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=200&section=header&text=Ishan%20Dahal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=200&section=header&text=Ishan%20Dahal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="header">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=6366f1&height=220&section=header&text=Ishan%20Dahal&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Tech%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18&stroke=6366f1&strokeWidth=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=4f46e5&height=220&section=header&text=Ishan%20Dahal&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Tech%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18&stroke=4f46e5&strokeWidth=2">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=4f46e5&height=220&section=header&text=Ishan%20Dahal&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Tech%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" alt="header">
 </picture>
+
+<!-- Animated typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;Full+Stack+Developer+from+Nepal+%F0%9F%8C%8F;Always+learning+something+new+%F0%9F%9A%80;Open+to+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,6 +36,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://ishandhl.github.io/my-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishandhl)
 
+<!-- Snake animation — generated via GitHub Actions, see note below -->
+<!-- Uncomment after setting up the action:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishandhl/ishandhl/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishandhl/ishandhl/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ishandhl/ishandhl/output/github-snake.svg">
+</picture>
+-->
+
 </div>
 
 ---
@@ -41,26 +53,8 @@
 
 ### 🛠️ Languages & Tools
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Animated skill icons -->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,python,php,react,tailwind,nodejs,mongodb,mysql&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -70,7 +64,6 @@
 
 ### 📊 GitHub Stats
 
-<!-- Streak from demolab — dedicated service, very reliable -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -85,7 +78,6 @@
 
 <br/><br/>
 
-<!-- Profile trophy — reliable, no rate limit issues -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -105,6 +97,8 @@
 <!-- Activity Graph -->
 <div align="center">
 
+### 📈 Contribution Graph
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -119,9 +113,18 @@
 
 </div>
 
+---
+
+<!-- Profile views counter -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ishandhl&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
 <!-- Footer -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=100&section=footer">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=100&section=footer" alt="footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=120&section=footer&animation=twinkling">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=120&section=footer&animation=twinkling" alt="footer">
 </picture>
