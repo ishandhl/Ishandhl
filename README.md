@@ -1,32 +1,149 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
 
-<!--
-**ishandhl/Ishandhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Ishan%20Dahal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=200&section=header&text=Ishan%20Dahal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=200&section=header&text=Ishan%20Dahal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="header">
+</picture>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Ishan Dahal</h1>
-<h3 align="center">Hi, I am Ishan Dahal Tech Enthusiast</h3>
-<img align ="right"alt="coding"Width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishan-dahal-11245225a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishan-dahal-11245225a/" height="30" width="40" /></a>
-<a href="/https://ishandhl.github.io/my-portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ishandhl.github.io/my-portfolio/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- About -->
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&show_icons=true&locale=en&layout=compact" alt="ishandhl" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&locale=en" alt="ishandhl" /></p>
+</div>
 
+```text
+🌏  Based in Nepal               🎓  Computer Science Student
+🔭  Building cool projects       🌱  Always learning something new
+⚡  Fun fact: I debug with print()  and I'm not ashamed
+```
+
+---
+
+<!-- Connect -->
+<div align="center">
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-dahal-11245225a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://ishandhl.github.io/my-portfolio/)
+
+</div>
+
+---
+
+<!-- Tech Stack -->
+<div align="center">
+
+### 🛠️ Languages & Tools
+
+</div>
+
+<div align="center">
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+
+### 📊 GitHub Stats
+
+<!-- Stats cards use #theme=... to auto-adapt to dark/light -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&theme=default&hide_border=true&title_color=4f46e5&icon_color=4f46e5"
+  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ishandhl&show_icons=true&theme=default&hide_border=true&title_color=4f46e5&icon_color=4f46e5" />
+</picture>
+&nbsp;
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&theme=default&hide_border=true&title_color=4f46e5"
+  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishandhl&layout=compact&theme=default&hide_border=true&title_color=4f46e5" />
+</picture>
+
+</div>
+
+<!-- Streak Stats -->
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=ishandhl&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=ishandhl&theme=default&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5"
+  />
+  <img src="https://streak-stats.demolab.com?user=ishandhl&theme=default&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5" alt="GitHub Streak" />
+</picture>
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ishandhl&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ishandhl&bg_color=ffffff&color=4f46e5&line=4f46e5&point=4f46e5&hide_border=true"
+  />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishandhl&bg_color=ffffff&color=4f46e5&line=4f46e5&point=4f46e5&hide_border=true" alt="Activity Graph" />
+</picture>
+
+</div>
+
+<!-- Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=100&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=100&section=footer" alt="footer">
+</picture>
